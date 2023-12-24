@@ -1,0 +1,1 @@
+:root{--wrapper-width: 90;--table-width: 680;--mobile-width: 320}*{margin:0;padding:0;box-sizing:border-box}input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}a{text-decoration:none;color:inherit}.wrapper{margin:auto;width:calc(var(--wrapper-width) * 1vw)}
